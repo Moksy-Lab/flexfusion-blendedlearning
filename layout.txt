@@ -1,0 +1,52 @@
+. Blended – A mix of online and in-person learning for a flexible approach.
+1. Navbar
+Logo, anchor links (About, Program Details, Benefits, Register), and a CTA like “Get Started” or “Join Now”.
+
+2. Hero Section
+Headline (e.g., “The Best of Both Worlds: Online + In-Person Learning”), subheadline, and CTA button.
+
+3. What is Blended Learning?
+Short explanation of the blended model: flexibility, personalisation, and the benefits of combining digital and physical classrooms.
+
+4. Program Structure
+Breakdown of how much is online vs. in-person (e.g., 70% online, 30% in workshops).
+
+5. Key Benefits
+Icons or bullet points highlighting benefits like flexible schedules, direct mentorship, practical hands-on learning.
+
+6. Who Should Join
+Define the ideal learners (working professionals, students, career changers).
+
+7. Featured Courses / Programs
+Highlight courses available in the blended format with short descriptions.
+
+8. How It Works
+Simple visual or steps:
+Enroll → Attend Online Classes → Join In-Person Workshops → Graduate.
+
+9. Instructors / Mentors
+Photos and bios of instructors involved in both online and in-person sessions.
+
+10. Student Testimonials
+Real feedback from learners who loved the blended experience.
+
+11. Schedule / Cohort Dates
+Show upcoming start dates and important deadlines for enrollment.
+
+12. Access Locations
+Map or list of cities/campuses where in-person sessions are held.
+
+13. Technology Requirements
+Explain online platform tools and minimum tech needed (e.g., laptop, stable internet).
+
+14. Pricing & Financial Aid
+Breakdown of tuition, payment plans, and scholarships if available.
+
+15. FAQs
+Common questions about travel, flexibility, switching cohorts, etc.
+
+16. Final CTA Banner
+Motivational close (e.g., “Learn Your Way — Start Today!”) with CTA button.
+
+17. Footer
+Standard footer with logo, links, privacy, terms, and contact info.
